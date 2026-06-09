@@ -81,3 +81,5 @@ python run.py examples/hello.gmc
 MIT
 
 ## Информация ниже
+
+https://github.com/EidosSoft/gmc16/blob/main/info.md
