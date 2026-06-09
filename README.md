@@ -79,3 +79,5 @@ python run.py examples/hello.gmc
 ## Лицензия
 
 MIT
+
+## Информация ниже
